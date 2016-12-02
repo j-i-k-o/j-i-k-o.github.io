@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: jikoの備忘録とか
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 技術系のこととか何かあったらつらつらと書きたい
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/8450430?v=3&u=3c20b79e51b4e500a6d3ab3d4610d182406f51ad&s=400
 
 #
 # Flags below are optional
